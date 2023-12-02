@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/employee-app/static/css/main.56993b6c.css",
+    "main.js": "/employee-app/static/js/main.2c94203b.js",
+    "static/js/787.223cd09b.chunk.js": "/employee-app/static/js/787.223cd09b.chunk.js",
+    "static/media/logo.svg": "/employee-app/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/employee-app/index.html",
+    "main.56993b6c.css.map": "/employee-app/static/css/main.56993b6c.css.map",
+    "main.2c94203b.js.map": "/employee-app/static/js/main.2c94203b.js.map",
+    "787.223cd09b.chunk.js.map": "/employee-app/static/js/787.223cd09b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.56993b6c.css",
+    "static/js/main.2c94203b.js"
+  ]
+}
