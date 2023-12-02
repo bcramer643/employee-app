@@ -4,6 +4,8 @@ import Employees from "./Employees";
 import './emp.css';
 import uuid from "react-uuid";
 import { useNavigate } from "react-router-dom";
+
+
 function AddEmp(props) {
     const[emp, setEmp] = useState({
         name: "",
