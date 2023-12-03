@@ -19,7 +19,7 @@ function EmpEdit1(props) {
         let emp = Employees[index]
         emp.name = name
         emp.age = age
-        navigate('/')
+        navigate('/employee-app')
     }
 
     useEffect(()=>{

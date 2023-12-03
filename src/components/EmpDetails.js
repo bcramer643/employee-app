@@ -21,7 +21,7 @@ function EmpDetails(props) {
     const handleDelete = (id => {
         var index = Employees.findIndex(element=>element.id == id)
         Employees.splice(index, 1)
-        navigate('/')
+        navigate('/employee-app')
     })
 
     function handleSearch(e){
