@@ -38,7 +38,7 @@ function EmpDetails(props) {
                 return emp.name.includes(searchVal)
             }))
         }
-        navigate('/')
+        navigate('/employee-app')
     }
     
     function containsNumber(str){
