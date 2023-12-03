@@ -2,11 +2,11 @@
     margin: 50px auto;
     border: 1px solid;
     background-color: beige;
-}
+}*/
 
 body{
     text-align: center;
-}*/
+}
 
 html,
 body{
@@ -17,8 +17,8 @@ body{
 }
 
 body {
-    background: rgb(174,221,238);
-    background: radial-gradient(circle, rgba(174,221,238,1) 43%, rgba(148,171,233,1) 91%);
+    background: rgb(150, 205, 226);
+    background: radial-gradient(circle, rgb(180, 223, 238) 43%, rgb(118, 140, 200) 91%);
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
@@ -42,14 +42,14 @@ input[type=text],
 input[type=number] {
     width: 30%;
     box-sizing: border-box;
-    border: 2px solid #ccc;
+    border: 2px solid #9d9b9b8f;
     border-radius: 6px;
     font-size: 16px;
     background-color: white;
     background-position: 10px 10px; 
     background-repeat: no-repeat;
     padding: 12px 20px 12px 40px;
-    margin-bottom:10px;
+    margin-bottom:16px;
     border-radius: 6px;
     }
 
@@ -66,7 +66,7 @@ table {
 	width: 600px;
 	border-collapse: collapse;
 	overflow: hidden;
-	box-shadow: 0 0 26px rgba(0, 0, 0, 0.1);
+	box-shadow: 0 0 18px rgba(0, 0, 0, 0.3);
     border-radius: 6px;
 } 
 
@@ -95,7 +95,7 @@ thead {
 				right: 0;
 				top: -9999px;
 				bottom: -9999px;
-				background-color: rgba(255,255,255,0.2);
+				background-color: rgba(255, 255, 255, 0.18);
 				z-index: -1;
                 font-family:Verdana, Geneva, Tahoma, sans-serif;
 			}

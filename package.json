@@ -1,6 +1,6 @@
 {
   "homepage":"http://bcramer643.github.io/employee-app",
-  "name": "employee-app",
+  "name": "emp-management",
   "version": "0.1.0",
   "private": true,
   "dependencies": {

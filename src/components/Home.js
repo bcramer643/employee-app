@@ -9,7 +9,7 @@ function Home(props) {
         <div>
             <BrowserRouter>
                 <Routes>
-                    <Route path = '/' element={<EmpDetails/>}/>
+                    <Route path = '/employee-app' element={<EmpDetails/>}/>
                     <Route path  = '/create' element={<AddEmp/>}/>
                     <Route path  = '/edit' element={<EmpEdit1/>}/>
                 </Routes>
